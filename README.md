@@ -37,10 +37,7 @@ I'm currently looking for work, while I continue to expand my Python and SQL kno
 
 
 #### Other visited courses:
-*in progress...*
-<!--
-[Intro to Data Engineering](https://campus.datacamp.com/courses/understanding-data-engineering)
--->
+[Intro to Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering)
 
 <!--
 **ValleSoYeah/ValleSoYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
