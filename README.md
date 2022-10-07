@@ -1,29 +1,41 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Valentin, a trained biochemist from Germany, looking to start my new journey in the data world.
+I'm Valentin, a biochemistry PhD from Germany, looking to start my new journey in the data world.
 
-I recently graduated from an intensive full-time [Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science) to firmly understand the concepts and methods and build a solid techstack:
+### My Data Science Training:
 
-**Python, Unix, Github, Pandas, SQL, Visualization,  
-Algorithms, SVM, EDA, Machine Learning, Tensorflow, Keras,  
-Scrum, Agile Methoden, Time Series**
+<img src="https://user-images.githubusercontent.com/107258267/194505587-01972277-b73e-46b7-ba09-a45092c1d7a6.png" alt="neuefische" width="30"/>  
 
-I'm currently looking for work, while I continue to expand my Python and SQL knowledge and hone my Data Science skills in personal projects:
+I recently graduated from an intensive full-time [Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science#curriculum) to firmly understand the concepts and methods and build a solid techstack:
 
-My recent Data Science Projects:  
+<code>Python, Unix, Github, Pandas, SQL, Visualization,</code>  
+<code>Algorithms, SVM, EDA, Machine Learning, Tensorflow, Keras,</code>  
+<code>Scrum, Agile Methoden, Time Series</code>
+
+My Capstone-Project:  
 [BrainWatchers - Detection of Alzheimer's Disease using Computer Vision](https://github.com/tamap94/ds-capstone-alzheimers-)
 
+---
+
+### What now?
+
+I'm currently looking for work, while I continue to expand my Python and SQL knowledge and hone my Data Science skills in personal projects
+
+
+#### Data Science Projects:  
+*in progress...*
 <!--
 [Identifying the best predictors to create top-rated boardgames](https://github.com/ValleSoYeah/ds-boardgamegeek)
 -->
 
-Find me on codewars:  
-[![img](https://www.codewars.com/users/UndValleSoYeah/badges/large)](https://www.codewars.com/users/UndValleSoYeah)
+#### Check out my progress on codewars:  
+[![img](https://www.codewars.com/users/UndValleSoYeah/badges/small)](https://www.codewars.com/users/UndValleSoYeah)
 
+
+#### Other visited courses:
+*in progress...*
 <!--
-Finished courses:
 [Intro to Data Engineering](https://campus.datacamp.com/courses/understanding-data-engineering)
-
 -->
 
 <!--
