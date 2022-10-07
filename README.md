@@ -4,7 +4,9 @@ I'm Valentin, a biochemistry PhD from Germany, looking to start my new journey i
 
 ### My Data Science Training:
 
-<img src="https://user-images.githubusercontent.com/107258267/194505587-01972277-b73e-46b7-ba09-a45092c1d7a6.png" alt="neuefische" width="30"/>  
+<a href="https://www.neuefische.de/">
+<img src="https://user-images.githubusercontent.com/107258267/194505587-01972277-b73e-46b7-ba09-a45092c1d7a6.png" alt="neuefische" width="30"/>
+</a>
 
 I recently graduated from an intensive full-time [Data Science Bootcamp](https://www.neuefische.de/bootcamp/data-science#curriculum) to firmly understand the concepts and methods and build a solid techstack:
 
