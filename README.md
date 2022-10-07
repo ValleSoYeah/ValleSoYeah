@@ -2,6 +2,8 @@
 
 I'm Valentin, a biochemistry PhD from Germany, looking to start my new journey in the data world.
 
+---
+
 ### My Data Science Training:
 
 <a href="https://www.neuefische.de/">
