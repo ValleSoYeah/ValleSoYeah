@@ -27,17 +27,19 @@ I'm currently looking for work, while I continue to expand my Python and SQL kno
 
 
 #### Data Science Projects:  
-*in progress...*
+Identifying the best predictors to create highly-rated boardgames ([used dataset](https://www.kaggle.com/datasets/andrewmvd/board-games))  
+*Repo in progress...*
 <!--
-[Identifying the best predictors to create top-rated boardgames](https://github.com/ValleSoYeah/ds-boardgamegeek)
--->
+(https://github.com/ValleSoYeah/ds-boardgamegeek)
+--->
 
 #### Check out my progress on codewars:  
 [![img](https://www.codewars.com/users/UndValleSoYeah/badges/small)](https://www.codewars.com/users/UndValleSoYeah)
 
 
 #### Other visited courses:
-[Intro to Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering)
+[Intro to Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering)  
+[Basic SQL](https://www.codecademy.com/learn/learn-sql)
 
 <!--
 **ValleSoYeah/ValleSoYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
