@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm Valentin, a biochemistry PhD from Germany, looking to start my new journey in the data world.
+## I'm Valentin, a guy from Germany with a PhD in biochemistry, currently mid-transition towards a professional role in data science.  
+  
+<!-- ## Why?
+-->
 
 ---
 
