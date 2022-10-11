@@ -1,9 +1,13 @@
 # Hi there 👋
 
-## I'm Valentin, a guy from Germany with a PhD in biochemistry, currently mid-transition towards a professional role in data science.  
-  
-<!-- ## Why?
--->
+## I'm Valentin, a guy from Germany with a PhD in biochemistry, currently mid-transition towards a professional role in data science.
+---  
+
+### Why the job transition?
+While the experimental part of scientific research is wildly interesting, for me the real fun begins not before I can dive deep into the resulting data.  
+I hugely enjoyed to look for any relations and emerging patterns in order to extract new knowledge and make insightful decisions for my future experiments.  
+As a data scientist I now want to focus all my attention to this part of the process and apply both my scientific background and domain knowledge as well as my ever-growing coding skills to help potential stakeholders to get the most out of their data.
+
 
 ---
 
@@ -30,7 +34,7 @@ I'm currently looking for work, while I continue to expand my Python and SQL kno
 
 
 #### Data Science Projects:  
-Identifying the best predictors to create highly-rated boardgames ([used dataset](https://www.kaggle.com/datasets/andrewmvd/board-games))  
+Identifying the best predictors to create highly-rated boardgames ([dataset](https://www.kaggle.com/datasets/andrewmvd/board-games))  
 *Repo in progress...*
 <!--
 (https://github.com/ValleSoYeah/ds-boardgamegeek)
@@ -40,21 +44,10 @@ Identifying the best predictors to create highly-rated boardgames ([used dataset
 [![img](https://www.codewars.com/users/UndValleSoYeah/badges/small)](https://www.codewars.com/users/UndValleSoYeah)
 
 
-#### Other visited courses:
-[Intro to Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering)  
-[Basic SQL](https://www.codecademy.com/learn/learn-sql)
+#### Other completed courses:
+[SQL Data Analysis - Skill Path](https://www.codecademy.com/learn/paths/analyze-data-with-sql)  
+[Intro to Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering) 
 
 <!--
 **ValleSoYeah/ValleSoYeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
