@@ -36,14 +36,15 @@ I'm currently looking for work, while I continue to expand my Python and SQL kno
 #### Data Science Projects:  
 
 *In progress...*  
-Identifying the best predictors to create highly-rated boardgames ([dataset](https://www.kaggle.com/datasets/andrewmvd/board-games))  
+- Identifying the best predictors to create highly-rated boardgames ([dataset](https://www.kaggle.com/datasets/andrewmvd/board-games))  
 <!--
 (https://github.com/ValleSoYeah/ds-boardgamegeek)
 --->
 *In planning*  
-- Mining of user-created topical spotify playlists to identify key features and commonalities
+- Mining of user-created topical music playlists to identify key features and commonalities
 - Scraping of a recipe website to identify nutritional food trends and trendy ingredients
 
+---
 
 #### Check out my progress on codewars:  
 [![img](https://www.codewars.com/users/UndValleSoYeah/badges/small)](https://www.codewars.com/users/UndValleSoYeah)
